@@ -23,6 +23,7 @@ if __name__ == '__main__':
         # embed the pdf and exit if the embedding was not successful
         if embed_pdf(pdf_path) == -1:
             exit()
+        prompt_pdf(pdf_path)
 
     else:
         print("Vectorstore found.")
