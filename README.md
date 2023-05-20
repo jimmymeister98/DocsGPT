@@ -1,4 +1,4 @@
-# DocsGPT
+# DocumentsGPT
 Chat with your documents using embeddings and gpt-3.5-turbo by OpenAI
 
 ## Table of Contents
